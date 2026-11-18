@@ -10,16 +10,16 @@ Sistema de escritorio desarrollado en **Java (Swing)** para la gestión de proye
 <img width="470" height="350" alt="image" src="https://github.com/user-attachments/assets/4b6ba06b-2d48-4596-b2c5-6bee54c5dd28" />
 
 ### 🏠 Panel Principal (KPIs y Módulos)
-![Panel Principal](docs/images/panel-principal.png)
+<img width="860" height="540" alt="image" src="https://github.com/user-attachments/assets/c4a7c5c2-dfae-44d7-88c0-550ab4f0cbe2" />
 
 ### 📝 Módulo 1 — Registro de Proyectos
-![Registro de Proyectos](docs/images/modulo-registro.png)
+<img width="980" height="650" alt="image" src="https://github.com/user-attachments/assets/ce9041df-7812-48cd-a0ed-f15bf7da7fb3" />
 
 ### 📈 Módulo 2 — Seguimiento de Proyectos
-![Seguimiento](docs/images/modulo-seguimiento.png)
+<img width="920" height="580" alt="image" src="https://github.com/user-attachments/assets/ac4c96ba-a2cf-423c-9683-ae63f9fa1e6d" />
 
 ### 📊 Módulo 3 — Reportes y Auditoría
-![Reportes](docs/images/modulo-reportes.png)
+<img width="920" height="560" alt="image" src="https://github.com/user-attachments/assets/938f9c25-c272-40e2-ab1e-383733411305" />
 
 ---
 
