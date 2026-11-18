@@ -6,10 +6,8 @@ Sistema de escritorio desarrollado en **Java (Swing)** para la gestión de proye
 
 ## 📸 Capturas de Pantalla
 
-> 📁 Coloca tus imágenes en la carpeta `docs/images/` (o ajusta las rutas a tu gusto).
-
 ### 🔐 Pantalla de Acceso
-![Login](docs/images/login.png)
+<img width="470" height="350" alt="image" src="https://github.com/user-attachments/assets/d679676e-2811-4c62-8d97-20566a2b330b" />
 
 ### 🏠 Panel Principal (KPIs y Módulos)
 ![Panel Principal](docs/images/panel-principal.png)
