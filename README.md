@@ -7,7 +7,7 @@ Sistema de escritorio desarrollado en **Java (Swing)** para la gestión de proye
 ## 📸 Capturas de Pantalla
 
 ### 🔐 Pantalla de Acceso
-<img width="470" height="350" alt="image" src="https://github.com/user-attachments/assets/d679676e-2811-4c62-8d97-20566a2b330b" />
+<img width="470" height="350" alt="image" src="https://github.com/user-attachments/assets/4b6ba06b-2d48-4596-b2c5-6bee54c5dd28" />
 
 ### 🏠 Panel Principal (KPIs y Módulos)
 ![Panel Principal](docs/images/panel-principal.png)
